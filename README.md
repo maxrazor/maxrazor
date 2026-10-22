@@ -1,16 +1,20 @@
-## Hi there 👋
+# Java Backend Developer
 
-<!--
-**maxrazor/maxrazor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build backend applications with Java and Spring Boot, focusing on REST APIs, transactional consistency, asynchronous processing, and automated testing.
 
-Here are some ideas to get you started:
+### Featured Project
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**[P2P Payment Ledger](https://github.com/maxrazor/P2P_Payment_Ledger)**
+
+A distributed payment ledger built with Java, Spring Boot, PostgreSQL, Kafka, Redis, and Docker Compose.
+
+- Event-driven transfer processing using Kafka
+- Transactional outbox and idempotency
+- Concurrency control and ledger-based balance calculation
+- Automated tests and application observability
+
+### Technologies
+
+Java · Spring Boot · SQL · PostgreSQL · Kafka · Redis · Docker · React
+
+*Open to Java backend development opportunities.*
